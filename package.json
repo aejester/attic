@@ -1,0 +1,28 @@
+{
+  "name": "attic",
+  "version": "1.0.0",
+  "description": "A database engine built specifically for discord.js bots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aejester/attic.git"
+  },
+  "keywords": [
+    "attic",
+    "data",
+    "storage",
+    "discord",
+    "bot",
+    "database",
+    "db"
+  ],
+  "author": "aejester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aejester/attic/issues"
+  },
+  "homepage": "https://github.com/aejester/attic#readme"
+}
